@@ -1,13 +1,13 @@
 {
-  "name": "@rogercasco/ng-14-odometer",
+  "name": "ng14-odometer",
   "description": "Odometer for Angular 14",
   "authors": [
-    "Roger Casco <rogercasco1989@gmail.com",
-    "Marco Trinastich <mt.marco87@gmail.com",
+    "Roger Casco <rogercasco1989@gmail.com>",
+    "Marco Trinastich <mt.marco87@gmail.com>",
     "Jose Andres <jmandreslopez@gmail.com>"
   ],
   "license": "MIT",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "keywords": [
     "hubspot",
     "odometer",
@@ -35,7 +35,24 @@
     "tm-odometer": "^1.0.6",
     "tslib": "^2.4.1"
   },
-  "devDependencies": {
-    "@types/node": "^18.11.9"
-  }
+  "module": "fesm2015/rogercasco-ng-14-odometer.mjs",
+  "es2020": "fesm2020/rogercasco-ng-14-odometer.mjs",
+  "esm2020": "esm2020/rogercasco-ng-14-odometer.mjs",
+  "fesm2020": "fesm2020/rogercasco-ng-14-odometer.mjs",
+  "fesm2015": "fesm2015/rogercasco-ng-14-odometer.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2020": "./esm2020/rogercasco-ng-14-odometer.mjs",
+      "es2020": "./fesm2020/rogercasco-ng-14-odometer.mjs",
+      "es2015": "./fesm2015/rogercasco-ng-14-odometer.mjs",
+      "node": "./fesm2015/rogercasco-ng-14-odometer.mjs",
+      "default": "./fesm2020/rogercasco-ng-14-odometer.mjs"
+    }
+  },
+  "sideEffects": false
 }

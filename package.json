@@ -1,74 +1,58 @@
 {
-  "name": "@rogercasco/ng-14-odometer",
-  "description": "Libs: Angular 14 Odometer",
+  "name": "ng14-odometer",
+  "description": "Odometer for Angular 14",
   "authors": [
-    "Roger Casco <rogercasco1989@gmail.com>"
+    "Roger Casco <rogercasco1989@gmail.com>",
+    "Marco Trinastich <mt.marco87@gmail.com>",
+    "Jose Andres <jmandreslopez@gmail.com>"
   ],
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.7",
   "keywords": [
     "hubspot",
     "odometer",
     "ng-14-odometer",
     "hubspot",
     "angular",
+    "angular14",
     "fixed odometer",
     "odometer fixed"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rcasco/ng14-odometer.git"
+    "url": "https://github.com/rcasco/ng14-odometer"
   },
   "bugs": {
     "url": "https://github.com/rcasco/ng14-odometer/issues"
   },
   "homepage": "https://github.com/rcasco/ng14-odometer#readme",
-  "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e"
+  "peerDependencies": {
+    "@angular/common": "^14.2.10",
+    "@angular/core": "^14.2.10"
   },
   "dependencies": {
-    "@angular/animations": "^14.2.10",
-    "@angular/common": "^14.2.10",
-    "@angular/compiler": "^14.2.10",
-    "@angular/core": "^14.2.10",
-    "@angular/forms": "^14.2.10",
-    "@angular/platform-browser": "^14.2.10",
-    "@angular/platform-browser-dynamic": "^14.2.10",
-    "@angular/router": "^14.2.10",
-    "lodash": "^4.17.21",
-    "lodash-es": "^4.17.21",
-    "rxjs": "~7.5.7",
-    "tm-odometer": "~1.0.6",
-    "tslib": "^2.4.1",
-    "zone.js": "~0.12.0"
+    "lodash": "^4.x",
+    "tm-odometer": "^1.0.6",
+    "tslib": "^2.4.1"
   },
-  "devDependencies": {
-    "@angular-devkit/build-angular": "^14.2.9",
-    "@angular/cli": "^14.2.9",
-    "@angular/compiler-cli": "^14.2.10",
-    "@angular/language-service": "^14.2.10",
-    "@types/jasmine": "~4.3.0",
-    "@types/jasminewd2": "~2.0.10",
-    "@types/lodash": "^4.14.188",
-    "@types/node": "^18.11.9",
-    "codelyzer": "^6.0.2",
-    "jasmine-core": "~4.5.0",
-    "jasmine-spec-reporter": "~7.0.0",
-    "karma": "~6.4.1",
-    "karma-chrome-launcher": "~3.1.1",
-    "karma-coverage-istanbul-reporter": "~3.0.3",
-    "karma-jasmine": "~5.1.0",
-    "karma-jasmine-html-reporter": "^2.0.0",
-    "ng-packagr": "^14.2.2",
-    "protractor": "~7.0.0",
-    "ts-node": "~10.9.1",
-    "tslint": "~6.1.0",
-    "typescript": "~4.8.4"
+  "module": "fesm2015/rogercasco-ng-14-odometer.mjs",
+  "es2020": "fesm2020/rogercasco-ng-14-odometer.mjs",
+  "esm2020": "esm2020/rogercasco-ng-14-odometer.mjs",
+  "fesm2020": "fesm2020/rogercasco-ng-14-odometer.mjs",
+  "fesm2015": "fesm2015/rogercasco-ng-14-odometer.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2020": "./esm2020/rogercasco-ng-14-odometer.mjs",
+      "es2020": "./fesm2020/rogercasco-ng-14-odometer.mjs",
+      "es2015": "./fesm2015/rogercasco-ng-14-odometer.mjs",
+      "node": "./fesm2015/rogercasco-ng-14-odometer.mjs",
+      "default": "./fesm2020/rogercasco-ng-14-odometer.mjs"
+    }
   },
-  "author": "Roger Casco"
+  "sideEffects": false
 }
