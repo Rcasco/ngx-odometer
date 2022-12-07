@@ -1,5 +1,5 @@
 {
-  "name": "ngx-odometer",
+  "name": "odometer-ngx",
   "description": "Odometer for Angular 15",
   "authors": [
     "Roger Casco <rogercasco1989@gmail.com>",
@@ -11,7 +11,7 @@
   "keywords": [
     "hubspot",
     "odometer",
-    "ngx-odometer",
+    "odometer-ngx",
     "hubspot",
     "angular",
     "angular15",
@@ -20,12 +20,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rcasco/ngx-odometer"
+    "url": "https://github.com/rcasco/odometer-ngx"
   },
   "bugs": {
-    "url": "https://github.com/rcasco/ngx-odometer/issues"
+    "url": "https://github.com/rcasco/odometer-ngx/issues"
   },
-  "homepage": "https://github.com/rcasco/ngx-odometer#readme",
+  "homepage": "https://github.com/rcasco/odometer-ngx#readme",
   "peerDependencies": {
     "@angular/common": "^14.2.10",
     "@angular/core": "^14.2.10"
@@ -57,11 +57,11 @@
     "tslint": "^6.1.0",
     "typescript": "4.8.4"
   },
-  "module": "fesm2015/rogercasco-ngx-odometer.mjs",
-  "es2020": "fesm2020/rogercasco-ngx-odometer.mjs",
-  "esm2020": "esm2020/rogercasco-ngx-odometer.mjs",
-  "fesm2020": "fesm2020/rogercasco-ngx-odometer.mjs",
-  "fesm2015": "fesm2015/rogercasco-ngx-odometer.mjs",
+  "module": "fesm2015/rogercasco-odometer-ngx.mjs",
+  "es2020": "fesm2020/rogercasco-odometer-ngx.mjs",
+  "esm2020": "esm2020/rogercasco-odometer-ngx.mjs",
+  "fesm2020": "fesm2020/rogercasco-odometer-ngx.mjs",
+  "fesm2015": "fesm2015/rogercasco-odometer-ngx.mjs",
   "typings": "index.d.ts",
   "exports": {
     "./package.json": {
@@ -69,11 +69,11 @@
     },
     ".": {
       "types": "./index.d.ts",
-      "esm2020": "./esm2020/rogercasco-ngx-odometer.mjs",
-      "es2020": "./fesm2020/rogercasco-ngx-odometer.mjs",
-      "es2015": "./fesm2015/rogercasco-ngx-odometer.mjs",
-      "node": "./fesm2015/rogercasco-ngx-odometer.mjs",
-      "default": "./fesm2020/rogercasco-ngx-odometer.mjs"
+      "esm2020": "./esm2020/rogercasco-odometer-ngx.mjs",
+      "es2020": "./fesm2020/rogercasco-odometer-ngx.mjs",
+      "es2015": "./fesm2015/rogercasco-odometer-ngx.mjs",
+      "node": "./fesm2015/rogercasco-odometer-ngx.mjs",
+      "default": "./fesm2020/rogercasco-odometer-ngx.mjs"
     }
   },
   "sideEffects": false

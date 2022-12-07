@@ -1,4 +1,4 @@
-# Ngx-Odometer [![npm version](https://img.shields.io/npm/v/tm-ng-odometer.svg?style=flat)](https://www.npmjs.com/package/tm-ng-odometer) [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+# odometer-ngx [![npm version](https://img.shields.io/npm/v/tm-ng-odometer.svg?style=flat)](https://www.npmjs.com/package/tm-ng-odometer) [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 ### Powered by: Roger Casco
 
@@ -20,7 +20,7 @@ NPM: [https://www.npmjs.com/package/ng2-odometer/](https://www.npmjs.com/package
 ## Quick Start
 
 ```
-npm install ngx-odometer --save
+npm install odometer-ngx --save
 ```
 
 ## Table of contents
@@ -34,7 +34,7 @@ npm install ngx-odometer --save
 
 First you need to install the npm module:
 ```sh
-npm install ngx-odometer --save
+npm install odometer-ngx --save
 ```
 
 Then add the `TmNgOdometerModule` to the imports array of your application module.
