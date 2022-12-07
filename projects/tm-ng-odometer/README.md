@@ -1,4 +1,4 @@
-# Ng14-Odometer [![npm version](https://img.shields.io/npm/v/tm-ng-odometer.svg?style=flat)](https://www.npmjs.com/package/tm-ng-odometer) [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+# Ngx-Odometer [![npm version](https://img.shields.io/npm/v/tm-ng-odometer.svg?style=flat)](https://www.npmjs.com/package/tm-ng-odometer) [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 ### Powered by: Roger Casco
 
@@ -8,7 +8,7 @@ Odometer for [Angular 15]() of HubSpot's Odometer: [NPM](https://www.npmjs.com/p
 ### NOTE: 
 I have updated this Angular 15 version starting from the existing Ng2Odometer by Jose Andres and the Angular 9 version done by Marco Trinastich.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.10.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.10.0.
 
 ### HubSpot's Odometer
 GitHub: [http://github.hubspot.com/odometer/docs/welcome/](http://github.hubspot.com/odometer/docs/welcome/)
