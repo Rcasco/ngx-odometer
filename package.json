@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/rcasco/odometer-ngx#readme",
   "peerDependencies": {
-    "@angular/common": "^14.2.10",
-    "@angular/core": "^14.2.10"
+    "@angular/common": "^15.0.2",
+    "@angular/core": "^15.0.2"
   },
   "dependencies": {
     "lodash": "^4.x",
@@ -36,10 +36,10 @@
     "tslib": "^2.4.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^14.2.9",
-    "@angular/cli": "^14.2.9",
-    "@angular/compiler-cli": "^14.2.10",
-    "@angular/language-service": "^14.2.10",
+    "@angular-devkit/build-angular": "^15.0.2",
+    "@angular/cli": "^15.0.2",
+    "@angular/compiler-cli": "^15.0.2",
+    "@angular/language-service": "^15.0.2",
     "@types/jasmine": "^4.3.0",
     "@types/jasminewd2": "^2.0.10",
     "@types/node": "^18.11.9",
@@ -51,7 +51,7 @@
     "karma-coverage-istanbul-reporter": "^3.0.3",
     "karma-jasmine": "^5.1.0",
     "karma-jasmine-html-reporter": "^2.0.0",
-    "ng-packagr": "^14.2.2",
+    "ng-packagr": "^15.0.1",
     "protractor": "^7.0.0",
     "ts-node": "^10.9.1",
     "tslint": "^6.1.0",
