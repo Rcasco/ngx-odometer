@@ -35,24 +35,26 @@
     "tm-odometer": "^1.0.6",
     "tslib": "^2.4.1"
   },
-  "module": "fesm2015/rogercasco-ng-14-odometer.mjs",
-  "es2020": "fesm2020/rogercasco-ng-14-odometer.mjs",
-  "esm2020": "esm2020/rogercasco-ng-14-odometer.mjs",
-  "fesm2020": "fesm2020/rogercasco-ng-14-odometer.mjs",
-  "fesm2015": "fesm2015/rogercasco-ng-14-odometer.mjs",
-  "typings": "index.d.ts",
-  "exports": {
-    "./package.json": {
-      "default": "./package.json"
-    },
-    ".": {
-      "types": "./index.d.ts",
-      "esm2020": "./esm2020/rogercasco-ng-14-odometer.mjs",
-      "es2020": "./fesm2020/rogercasco-ng-14-odometer.mjs",
-      "es2015": "./fesm2015/rogercasco-ng-14-odometer.mjs",
-      "node": "./fesm2015/rogercasco-ng-14-odometer.mjs",
-      "default": "./fesm2020/rogercasco-ng-14-odometer.mjs"
-    }
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^14.2.9",
+    "@angular/cli": "^14.2.9",
+    "@angular/compiler-cli": "^14.2.10",
+    "@angular/language-service": "^14.2.10",
+    "@types/jasmine": "^4.3.0",
+    "@types/jasminewd2": "^2.0.10",
+    "@types/node": "^18.11.9",
+    "codelyzer": "^6.0.2",
+    "jasmine-core": "^4.5.0",
+    "jasmine-spec-reporter": "^7.0.0",
+    "karma": "^6.4.1",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-coverage-istanbul-reporter": "^3.0.3",
+    "karma-jasmine": "^5.1.0",
+    "karma-jasmine-html-reporter": "^2.0.0",
+    "protractor": "^7.0.0",
+    "ts-node": "^10.9.1",
+    "tslint": "^6.1.0",
+    "typescript": "4.8.4"
   },
   "sideEffects": false
 }
