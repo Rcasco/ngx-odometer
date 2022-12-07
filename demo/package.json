@@ -1,6 +1,6 @@
 {
   "name": "tm-ng-odometer-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fixed Odometer demo for Angular8",
   "author": "Marco Trinastich <mt.marco87@gmail.com>",
   "license": "MIT",
