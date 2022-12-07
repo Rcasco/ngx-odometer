@@ -1,6 +1,6 @@
 {
-  "name": "ng14-odometer",
-  "description": "Odometer for Angular 14",
+  "name": "ngx-odometer",
+  "description": "Odometer for Angular 15",
   "authors": [
     "Roger Casco <rogercasco1989@gmail.com>",
     "Marco Trinastich <mt.marco87@gmail.com>",
@@ -11,7 +11,7 @@
   "keywords": [
     "hubspot",
     "odometer",
-    "ng-14-odometer",
+    "ngx-odometer",
     "hubspot",
     "angular",
     "angular14",
@@ -20,12 +20,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rcasco/ng14-odometer"
+    "url": "https://github.com/rcasco/ngx-odometer"
   },
   "bugs": {
-    "url": "https://github.com/rcasco/ng14-odometer/issues"
+    "url": "https://github.com/rcasco/ngx-odometer/issues"
   },
-  "homepage": "https://github.com/rcasco/ng14-odometer#readme",
+  "homepage": "https://github.com/rcasco/ngx-odometer#readme",
   "peerDependencies": {
     "@angular/common": "^14.2.10",
     "@angular/core": "^14.2.10"

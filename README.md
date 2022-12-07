@@ -2,11 +2,11 @@
 
 ### Powered by: Roger Casco
 
-Odometer for [Angular 14]() that updates mtmarco87's decimal fixed version of HubSpot's Odometer: [NPM](https://www.npmjs.com/package/tm-odometer)/[GitHub](https://github.com/mtmarco87/odometer/)
+Odometer for [Angular 15]() that updates mtmarco87's decimal fixed version of HubSpot's Odometer: [NPM](https://www.npmjs.com/package/tm-odometer)/[GitHub](https://github.com/mtmarco87/odometer/)
 
 
 ### NOTE: 
-I have updated this Angular 14 version starting from the existing Ng2Odometer by Jose Andres.
+I have updated this Angular 15 version starting from the existing Ng2Odometer by Jose Andres.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.10.0.
 
@@ -20,7 +20,7 @@ NPM: [https://www.npmjs.com/package/ng2-odometer/](https://www.npmjs.com/package
 ## Quick Start
 
 ```
-npm install @rogercasco/ng-14-odometer --save
+npm install @rogercasco/ngx-odometer --save
 ```
 
 ## Table of contents
@@ -34,7 +34,7 @@ npm install @rogercasco/ng-14-odometer --save
 
 First you need to install the npm module:
 ```sh
-npm install @rogercasco/ng-14-odometer --save
+npm install @rogercasco/ngx-odometer --save
 ```
 
 Then add the `TmNgOdometerModule` to the imports array of your application module.
@@ -182,7 +182,7 @@ Then go to [http://localhost:4200](http://localhost:4200/) to check the demo run
 
 ## DONE:
 
-* Update to Angular 14
+* Update to Angular 15
 
 
 ## License
