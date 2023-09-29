@@ -1,6 +1,6 @@
 {
     "name": "odometer-ngx",
-    "description": "Odometer for Angular 15",
+    "description": "Odometer for Angular 16",
     "authors": [
       "Roger Casco <rogercasco1989@gmail.com>",
       "Marco Trinastich <mt.marco87@gmail.com>",
@@ -14,7 +14,7 @@
       "odometer-ngx",
       "hubspot",
       "angular",
-      "angular15",
+      "angular16",
       "fixed odometer",
       "odometer fixed"
     ],
