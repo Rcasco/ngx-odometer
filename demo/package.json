@@ -1,11 +1,8 @@
 {
-  "name": "odometer-ngx-demo",
-  "version": "1.0.3",
-  "description": "Fixed Odometer demo for Angular 16",
-  "author": [
-    "Roger Casco <rogercasco1989@gmail.com>",
-    "Marco Trinastich <mt.marco87@gmail.com>"
-  ],
+  "name": "tm-ng-odometer-demo",
+  "version": "1.0.1",
+  "description": "Fixed Odometer demo for Angular8",
+  "author": "Marco Trinastich <mt.marco87@gmail.com>",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
@@ -17,31 +14,31 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^16.2.7",
-    "@angular/cdk": "^16.2.6",
-    "@angular/common": "^16.2.7",
-    "@angular/compiler": "^16.2.7",
-    "@angular/core": "^16.2.7",
-    "@angular/forms": "^16.2.7",
-    "@angular/material": "^16.2.6",
-    "@angular/platform-browser": "^16.2.7",
-    "@angular/platform-browser-dynamic": "^16.2.7",
-    "@angular/router": "^16.2.7",
+    "@angular/animations": "^14.2.10",
+    "@angular/cdk": "^14.2.7",
+    "@angular/common": "^14.2.10",
+    "@angular/compiler": "^14.2.10",
+    "@angular/core": "^14.2.10",
+    "@angular/forms": "^14.2.10",
+    "@angular/material": "^14.2.7",
+    "@angular/platform-browser": "^14.2.10",
+    "@angular/platform-browser-dynamic": "^14.2.10",
+    "@angular/router": "^14.2.10",
     "@types/lodash": "^4.14.188",
     "core-js": "^3.26.0",
     "lodash": "^4.17.21",
     "lodash-es": "^4.17.21",
     "rxjs": "^7.5.7",
+    "tm-ng-odometer": "^1.1.8",
     "tm-odometer": "^1.0.6",
-    "odometer-ngx": "^1.0.3",
     "tslib": "^2.4.1",
-    "zone.js": "~0.13.3"
+    "zone.js": "~0.12.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^16.2.4",
-    "@angular/cli": "^16.2.4",
-    "@angular/compiler-cli": "^16.2.7",
-    "@angular/language-service": "^16.2.7",
+    "@angular-devkit/build-angular": "^14.2.9",
+    "@angular/cli": "^14.2.9",
+    "@angular/compiler-cli": "^14.2.10",
+    "@angular/language-service": "^14.2.10",
     "@types/jasmine": "^4.3.0",
     "@types/jasminewd2": "^2.0.10",
     "@types/node": "^18.11.9",
@@ -56,6 +53,6 @@
     "protractor": "^7.0.0",
     "ts-node": "^10.9.1",
     "tslint": "^6.1.0",
-    "typescript": "~5.1.6"
+    "typescript": "4.8.4"
   }
 }

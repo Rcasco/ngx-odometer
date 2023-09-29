@@ -2,13 +2,13 @@
 
 ### Powered by: Roger Casco
 
-Odometer for [Angular 16]() that updates mtmarco87's decimal fixed version of HubSpot's Odometer: [NPM](https://www.npmjs.com/package/tm-odometer)/[GitHub](https://github.com/mtmarco87/odometer/)
+Odometer for [Angular 15]() that updates mtmarco87's decimal fixed version of HubSpot's Odometer: [NPM](https://www.npmjs.com/package/tm-odometer)/[GitHub](https://github.com/mtmarco87/odometer/)
 
 
 ### NOTE: 
-I have updated this Angular 16 version starting from the existing Ng2Odometer by Jose Andres.
+I have updated this Angular 15 version starting from the existing Ng2Odometer by Jose Andres.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.10.0.
 
 ### HubSpot's Odometer
 GitHub: [http://github.hubspot.com/odometer/docs/welcome/](http://github.hubspot.com/odometer/docs/welcome/)
@@ -182,7 +182,7 @@ Then go to [http://localhost:4200](http://localhost:4200/) to check the demo run
 
 ## DONE:
 
-* Update to Angular 16
+* Update to Angular 15
 
 
 ## License
