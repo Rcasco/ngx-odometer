@@ -7,7 +7,7 @@
         "Jose Andres <jmandreslopez@gmail.com>"
     ],
     "license": "MIT",
-    "version": "1.0.5",
+    "version": "1.0.3",
     "keywords": [
         "hubspot",
         "odometer",
@@ -26,5 +26,10 @@
         "url": "https://github.com/rcasco/odometer-ngx/issues"
     },
     "homepage": "https://github.com/rcasco/odometer-ngx#readme",
+    "dependencies": {
+        "lodash": "^4.x",
+        "tm-odometer": "^1.0.6",
+        "tslib": "^2.4.1"
+    },
     "sideEffects": false
 }
