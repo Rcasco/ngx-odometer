@@ -42,7 +42,7 @@ Then add the `TmNgOdometerModule` to the imports array of your application modul
 ```typescript
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { TmNgOdometerModule } from 'odometer-ngx'; // <-- import the module
+import { TmNgOdometerModule } from 'tm-ng-odometer'; // <-- import the module
 import { AppComponent} from './app.component';
 
 @NgModule({
