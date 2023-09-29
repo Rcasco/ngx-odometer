@@ -1,13 +1,13 @@
 {
   "name": "odometer-ngx",
-  "description": "Odometer for Angular 15",
+  "description": "Odometer for Angular 16",
   "authors": [
     "Roger Casco <rogercasco1989@gmail.com>",
     "Marco Trinastich <mt.marco87@gmail.com>",
     "Jose Andres <jmandreslopez@gmail.com>"
   ],
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "keywords": [
     "hubspot",
     "odometer",
@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/rcasco/odometer-ngx#readme",
   "peerDependencies": {
-    "@angular/common": "^14.2.10",
-    "@angular/core": "^14.2.10"
+    "@angular/common": "^15.0.2",
+    "@angular/core": "^15.0.2"
   },
   "dependencies": {
     "lodash": "^4.x",
@@ -36,10 +36,10 @@
     "tslib": "^2.4.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^14.2.9",
-    "@angular/cli": "^14.2.9",
-    "@angular/compiler-cli": "^14.2.10",
-    "@angular/language-service": "^14.2.10",
+    "@angular-devkit/build-angular": "^15.0.2",
+    "@angular/cli": "^15.0.2",
+    "@angular/compiler-cli": "^15.0.2",
+    "@angular/language-service": "^15.0.2",
     "@types/jasmine": "^4.3.0",
     "@types/jasminewd2": "^2.0.10",
     "@types/node": "^18.11.9",
@@ -54,7 +54,7 @@
     "protractor": "^7.0.0",
     "ts-node": "^10.9.1",
     "tslint": "^6.1.0",
-    "typescript": "4.8.4"
+    "typescript": "~5.1.6"
   },
   "sideEffects": false
 }
