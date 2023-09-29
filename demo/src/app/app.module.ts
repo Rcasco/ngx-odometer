@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { TmNgOdometerModule } from 'odometer-ngx';
+import { TmNgOdometerModule } from 'tm-ng-odometer';
 import { AppComponent } from './app.component';
 
 @NgModule({
