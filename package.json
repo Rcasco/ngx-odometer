@@ -1,20 +1,20 @@
 {
   "name": "odometer-ngx",
-  "description": "Odometer for Angular 15",
+  "description": "Odometer for Angular 16",
   "authors": [
     "Roger Casco <rogercasco1989@gmail.com>",
     "Marco Trinastich <mt.marco87@gmail.com>",
     "Jose Andres <jmandreslopez@gmail.com>"
   ],
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "hubspot",
     "odometer",
     "odometer-ngx",
     "hubspot",
     "angular",
-    "angular15",
+    "angular16",
     "fixed odometer",
     "odometer fixed"
   ],
