@@ -2,29 +2,34 @@
     "name": "odometer-ngx",
     "description": "Odometer for Angular 16",
     "authors": [
-      "Roger Casco <rogercasco1989@gmail.com>",
-      "Marco Trinastich <mt.marco87@gmail.com>",
-      "Jose Andres <jmandreslopez@gmail.com>"
+        "Roger Casco <rogercasco1989@gmail.com>",
+        "Marco Trinastich <mt.marco87@gmail.com>",
+        "Jose Andres <jmandreslopez@gmail.com>"
     ],
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.6",
     "keywords": [
-      "hubspot",
-      "odometer",
-      "odometer-ngx",
-      "hubspot",
-      "angular",
-      "angular16",
-      "fixed odometer",
-      "odometer fixed"
+        "hubspot",
+        "odometer",
+        "odometer-ngx",
+        "hubspot",
+        "angular",
+        "angular16",
+        "fixed odometer",
+        "odometer fixed"
     ],
     "repository": {
-      "type": "git",
-      "url": "https://github.com/rcasco/odometer-ngx"
+        "type": "git",
+        "url": "https://github.com/rcasco/odometer-ngx"
     },
     "bugs": {
-      "url": "https://github.com/rcasco/odometer-ngx/issues"
+        "url": "https://github.com/rcasco/odometer-ngx/issues"
     },
-    "homepage": "https://github.com/rcasco/odometer-ngx#readme",    
+    "homepage": "https://github.com/rcasco/odometer-ngx#readme",
+    "dependencies": {
+        "lodash": "^4.x",
+        "tm-odometer": "^1.0.6",
+        "tslib": "^2.4.1"
+    },
     "sideEffects": false
-  }
+}
