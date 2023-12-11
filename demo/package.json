@@ -1,7 +1,7 @@
 {
   "name": "odometer-ngx-demo",
   "version": "1.0.6",
-  "description": "Fixed Odometer demo for Angular 16",
+  "description": "Fixed Odometer demo for Angular 17",
   "author": "Roger Casco <rogercasco1989@gmail.com>",
   "license": "MIT",
   "angular-cli": {},
@@ -32,7 +32,7 @@
     "odometer-ngx": "^1.0.6",
     "tm-odometer": "^1.0.6",
     "tslib": "^2.4.1",
-    "zone.js": "~0.13.3"
+    "zone.js": "~0.14.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^16.2.4",
@@ -53,6 +53,6 @@
     "protractor": "^7.0.0",
     "ts-node": "^10.9.1",
     "tslint": "^6.1.0",
-    "typescript": "~4.9.3"
+    "typescript": "~5.2.2"
   }
 }
