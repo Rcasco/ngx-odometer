@@ -7,14 +7,14 @@
         "Jose Andres <jmandreslopez@gmail.com>"
     ],
     "license": "MIT",
-    "version": "1.0.6",
+    "version": "1.1.0",
     "keywords": [
         "hubspot",
         "odometer",
         "odometer-ngx",
         "hubspot",
         "angular",
-        "angular16",
+        "angular17",
         "fixed odometer",
         "odometer fixed"
     ],
